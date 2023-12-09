@@ -12,7 +12,7 @@ This project was undertaken as part of the Udacity Nanodegree program, "Programm
 
 ## Entity-Relationship Diagram (ERD)
 
-![ERD](erd.png)
+![ERD](ERD.png)
 
 ## Questions Explored
 
